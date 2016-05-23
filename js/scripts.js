@@ -54,6 +54,9 @@ var testimonialsArray = ['"We worked with CBC to build our custom home. It was a
 
 var testimonialsIndex = 1;
 
+
+
+
 function changeTestimonials() {
     testimonials.innerHTML = testimonialsArray[testimonialsIndex];
     testimonialsIndex++;

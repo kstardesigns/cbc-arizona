@@ -436,7 +436,19 @@ footer {
 	float: right;
 }
 
-.main-content .res-callout a {
+.nonres-callout { 
+	text-align: center;
+	width: 100%;
+	max-width: 100%;
+	background-color: #7f0000;
+	color: #fff;
+	padding: 5px 10px;
+	margin: 15px auto;
+	display: block; 
+}
+
+.main-content .res-callout a,
+.main-content .nonres-callout a {
     color: #fff;
     text-decoration: underline;
     font-style: italic;
