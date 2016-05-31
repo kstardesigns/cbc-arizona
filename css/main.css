@@ -546,7 +546,7 @@ footer {
 /* External styles from porch.com */
 .porch-pro-badge-my-work {
   cursor: pointer;
-  width: 283px;
+  width: 300px;
   height: 78px;
   clear: both;
   border: 1px solid #dddfe5;
@@ -554,6 +554,7 @@ footer {
   box-sizing: content-box;
   display: block;
   margin: 10px auto;
+  margin-left: 25px;
 }
 .porch-pro-badge-my-work * {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -615,7 +616,7 @@ footer {
 	nav .main-nav li { font-size: 16px;}
 	nav .main-nav li:nth-child(2) { margin-left: 10px; }
 
-	.sidebar-content .sb-section iframe { margin: 10px auto; }
+	.sidebar-content .sb-section iframe, .porch-pro-badge-my-work { margin: 10px auto; }
 	.main-content, .main-content.home { float: none; width: 100%; margin-right: 0; }
 	.sidebar-content, .sidebar-content.home { float: none; width: 100%; border-left: none; padding-left: 0; margin-top: 50px; }
 	.services li { width: 100%; }
