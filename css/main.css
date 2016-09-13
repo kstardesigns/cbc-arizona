@@ -604,6 +604,28 @@ footer {
   color: #949AA1;
 }
 
+.modern .lb-image {
+	width: 900px !important;
+	height: auto !important;
+}
+
+.modern .lb-outerContainer {
+	width: auto;
+	height: auto;
+}
+
+.mb-magazine {
+    text-align: center;
+    font-weight: normal;
+    max-width: 400px;
+    display: block;
+    margin: 10px auto;
+}
+
+.mb-magazine a {
+	color: #9f0000;
+}
+
 /* Responsive - main layout */
 
 @media screen and (max-width: 900px) {
