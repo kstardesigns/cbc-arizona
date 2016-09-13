@@ -1,4 +1,4 @@
-@charset "utf-8";
+ @charset "utf-8";
 
 /* Fonts */
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic);
@@ -423,6 +423,12 @@ footer {
     display: inline-block;
     background: url(../assets/loader.gif) center center no-repeat;
     background-size: 16px 16px;
+}
+
+.gallery.modern img {
+	width: 49%;
+	max-width: 49%;
+	margin: 10px 0;
 }
 
 .res-callout { 
