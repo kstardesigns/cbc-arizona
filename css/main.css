@@ -428,7 +428,7 @@ footer {
 .gallery.modern img {
 	width: 49%;
 	max-width: 49%;
-	margin: 10px 0;
+	margin: 10px 0; 
 }
 
 .res-callout { 
@@ -623,13 +623,17 @@ footer {
 .mb-magazine {
     text-align: center;
     font-weight: normal;
-    max-width: 400px;
     display: block;
-    margin: 10px auto;
+    margin: 20px 0 10px 40px;
+    padding: 10px;
 }
 
 .mb-magazine a {
 	color: #9f0000;
+}
+
+.mb-magazine img {
+	margin-top: 20px;
 }
 
 /* Responsive - main layout */
@@ -675,6 +679,7 @@ footer {
 	.lightbox .lb-image { max-width: 100% !important; height: auto !important; }
 	.lb-outerContainer { max-width: 100% !important; height: auto !important; }
 	.callout { display: none; } 
+	.mb-magazine { margin: 20px auto; }
 }
 
 /* this will need to be changed to a higher max width and fixed */
