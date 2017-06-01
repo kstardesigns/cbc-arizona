@@ -43,9 +43,9 @@
 		<img class="client-logo" src="assets/cbclogo.png" alt="CBC Arizona" />
 		<h1>Contact CBC</h1>
 
-		<p>Email CBC below or call us at 480-380-9400.</p> 
+		<p>Email CBC below or call us at 480-380-9400.</p>
 
-		
+
 			<div class="contactform first">
             <form method="post" action="cbc-contact.php">
                 <label for="Name">Name</label><br/>
@@ -73,9 +73,9 @@
 		<div class="sb-section first-sb">
 			<figure><img src="assets/cbc-maroon.png" alt="CBC Arizona" /><figcaption>Building Arizona since 1999</figcaption></figure>
 
-			<p class="centered">CBC, Inc.<br/>
-			3654 N. Power Rd. Ste 150<br/>
-			Mesa, AZ 85215</p>
+      <p class="centered">CBC, Inc.<br/>
+			9353 E. Thunderpass Drive<br/>
+			Gold Canyon, Arizona 85118</p>
 		</div>
 		<div class="sb-section">
 			<img src="assets/vince.jpg" alt="Vince Stark" />
