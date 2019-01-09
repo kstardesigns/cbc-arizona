@@ -93,7 +93,7 @@
 </div>
 
 <footer>
-	<span>&copy;</span> <a href="http://kstardesigns.com/" title="Kstar Designs" target="_blank">kstar designs</a>
+	<span>&copy;</span> <a href="http://kylephx.com/" title="Kstar Designs" target="_blank">kstar designs</a>
 </footer>
 
 
