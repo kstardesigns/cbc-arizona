@@ -7,7 +7,7 @@ $(document).ready(function() {
         dropdown.slideToggle();
     });
 
-    $(".gallery img").unveil(200); // credit: http://luis-almeida.github.io/unveil/
+    //(".gallery img").unveil(200); // credit: http://luis-almeida.github.io/unveil/
 });
 
 
@@ -56,16 +56,19 @@ var testimonialsIndex = 1;
 
 
 
-
-function changeTestimonials() {
-    testimonials.innerHTML = testimonialsArray[testimonialsIndex];
-    testimonialsIndex++;
-    if (testimonialsIndex >= testimonialsArray.length) {
-        testimonialsIndex = 0;
+if (testimonials) {
+    function changeTestimonials() {
+        testimonials.innerHTML = testimonialsArray[testimonialsIndex];
+        testimonialsIndex++;
+        if (testimonialsIndex >= testimonialsArray.length) {
+            testimonialsIndex = 0;
+        }
     }
+
+    setInterval(changeTestimonials,15000);
 }
 
-setInterval(changeTestimonials,15000);
+
 
 $( "#nextTestimonial" ).click(function() {
   changeTestimonials();

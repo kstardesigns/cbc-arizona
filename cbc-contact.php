@@ -33,7 +33,7 @@
 <?php
 
 $EmailFrom = "CBC Arizona website";
-$EmailTo = "cbcarizona99@gmail.com"; //cbcarizona99@gmail.com
+$EmailTo = "vince@cbcarizona.com"; //cbcarizona99@gmail.com
 $Subject = "cbcarizona.com form submission";
 $Name = Trim(stripslashes($_POST['Name']));  
 $Phone = Trim(stripslashes($_POST['Phone'])); 
