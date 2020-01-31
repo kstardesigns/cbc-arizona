@@ -7,7 +7,6 @@ $(document).ready(function() {
         dropdown.slideToggle();
     });
 
-    //(".gallery img").unveil(200); // credit: http://luis-almeida.github.io/unveil/
 });
 
 

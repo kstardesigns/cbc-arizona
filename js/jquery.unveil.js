@@ -54,3 +54,7 @@
   };
 
 })(window.jQuery || window.Zepto);
+
+$(document).ready(function() {
+  $(".gallery img").unveil(200); // credit: http://luis-almeida.github.io/unveil/
+});
