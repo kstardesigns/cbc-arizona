@@ -43,7 +43,7 @@
 		<img class="client-logo" src="assets/cbclogo.png" alt="CBC Arizona" />
 		<h1 id="thanks">Thank you!</h1>
 		<p>Thank you for contacting CBC. We will be in touch with you shortly.</p>
-		<p>Email CBC below or call us at 480-380-9400.</p>
+		<p>Email CBC below or call us at 602-573-2170.</p>
 
 
 			<div class="contactform first">
@@ -80,8 +80,7 @@
 		<div class="sb-section">
 			<img src="assets/vince.jpg" alt="Vince Stark" />
 			<p class="centered">Contact Vince Stark<br/>
-			Cell: 602-573-2170<br/>
-			Office: 480-380-9400</p>
+			602-573-2170</p>
 		</div>
 		<div class="sb-section">
 			<a href="http://www.houzz.com/pro/cbcarizona/cbc-inc" target="_blank"><img class="houzz" src="assets/besthouzz2015.png" alt="Best of Houzz 2015" /></a>
