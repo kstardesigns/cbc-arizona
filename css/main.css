@@ -341,7 +341,7 @@ nav img.mobilenavlogo {
 
 .sidebar-content .sb-section iframe {
 	display: block;
-	margin: 10px auto;
+	margin: 10px auto 0;
 	max-width: 100%;
 	margin-left: 25px;
 }
@@ -624,7 +624,7 @@ footer {
     text-align: center;
     font-weight: normal;
     display: block;
-    margin: 20px 0 10px 40px;
+    margin: 0 0 10px 40px;
     padding: 10px;
 }
 
